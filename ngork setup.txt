@@ -1,6 +1,0 @@
-ngrok config add-authtoken 2uoS3eak9Jr0z4XZGh6VLhPRLpW_3NQgVCbxXP8v5Q4NNnFfB
-ngrok http http://localhost:3000
-
-admin
-admin@admin.com
-Admin@1499
